@@ -4,4 +4,4 @@ Peng's MS thesis project at Xi'an Jiaotong Univ./KVA Ltd. affiliated by China Ac
 Reference:
 1. https://soco.intel.com/docs/DOC-2698240
 Title: A Low Bit Rate Speech Compression Coding and Real Time DSP Implementation
-Authored by: Peng Zeng, and Huijuan Chai.
+Authored by: Peng Zeng (pzeng@iit.edu), and Huijuan Chai (huijuan.chai@intel.com).
